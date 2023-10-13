@@ -1,6 +1,9 @@
 # EasyCVR_backend_password_leakage
 EasyCVR Intelligent Edge Gateway userlist Information Disclosure Vulnerability
 
+## Attention
+I have developed a tool for local testing and POC development, which is for technical learning reference only. Please do not use it for illegal purposes. Any direct or indirect consequences and losses caused by individuals or organizations using the information provided in this article are the responsibility of the user themselves and have nothing to do with the author!!!
+
 <img width="527" alt="1697191016867" src="https://github.com/thedarknessdied/EasyCVR_backend_password_leakage/assets/56123966/10122467-45d7-45ac-85bb-df570cfe6ac7">
 
 ## Description
